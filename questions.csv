@@ -1,0 +1,5 @@
+type,question,option1,option2,option3,option4,answer
+multiple-choice,請問8-1=？,6,7,8,9,7
+multiple-choice,請問4+3=？,6,7,8,9,7
+multiple-choice,請問6+3=？,6,7,8,9,9
+fill-in-the-blank,請填寫5+3=？,,,,,8
